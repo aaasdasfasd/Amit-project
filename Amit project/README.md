@@ -12,4 +12,3 @@ an Electric heater and Simulation done on Proteus
 8. Solid State Relays.
 9. Cooling Fins & Fans.
 # Schematic
-![amit](https://github.com/FayedMohamed/Electric_Heater/assets/122820420/29d1fbbb-2f1e-4bd3-a9bb-c8993623da49)
